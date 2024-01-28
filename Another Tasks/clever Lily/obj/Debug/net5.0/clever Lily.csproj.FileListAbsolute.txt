@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\clever Lily.exe
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\clever Lily.deps.json
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\clever Lily.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\clever Lily.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\clever Lily.dll
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\ref\clever Lily.dll
+C:\Users\usr\source\repos\toystore\clever Lily\bin\Debug\net5.0\clever Lily.pdb
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.dll
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\ref\clever Lily.dll
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.pdb
+C:\Users\usr\source\repos\toystore\clever Lily\obj\Debug\net5.0\clever Lily.genruntimeconfig.cache

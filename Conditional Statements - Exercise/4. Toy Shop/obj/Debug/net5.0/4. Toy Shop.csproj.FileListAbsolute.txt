@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\4. Toy Shop.exe
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\4. Toy Shop.deps.json
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\4. Toy Shop.runtimeconfig.json
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\4. Toy Shop.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\4. Toy Shop.dll
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\ref\4. Toy Shop.dll
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\bin\Debug\net5.0\4. Toy Shop.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.dll
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\ref\4. Toy Shop.dll
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\4. Toy Shop\obj\Debug\net5.0\4. Toy Shop.genruntimeconfig.cache

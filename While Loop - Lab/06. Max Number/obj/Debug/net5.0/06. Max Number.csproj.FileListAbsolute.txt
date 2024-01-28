@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\06. Max Number.exe
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\06. Max Number.deps.json
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.json
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\06. Max Number.runtimeconfig.dev.json
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\06. Max Number.dll
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\ref\06. Max Number.dll
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\bin\Debug\net5.0\06. Max Number.pdb
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.AssemblyInfo.cs
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.dll
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\ref\06. Max Number.dll
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.pdb
+C:\Users\usr\source\repos\lab 05.02.22\06. Max Number\obj\Debug\net5.0\06. Max Number.genruntimeconfig.cache

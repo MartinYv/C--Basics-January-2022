@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.exe
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.deps.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\ref\06. Vowels Sum.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\ref\06. Vowels Sum.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\in time for exa.exe
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\in time for exa.deps.json
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\in time for exa.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\in time for exa.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\in time for exa.dll
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\ref\in time for exa.dll
+C:\Users\usr\source\repos\toystore\in time for exa\bin\Debug\net5.0\in time for exa.pdb
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.dll
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\ref\in time for exa.dll
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.pdb
+C:\Users\usr\source\repos\toystore\in time for exa\obj\Debug\net5.0\in time for exa.genruntimeconfig.cache

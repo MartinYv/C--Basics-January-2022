@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\Summer outfit.exe
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\Summer outfit.deps.json
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\Summer outfit.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\Summer outfit.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\Summer outfit.dll
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\ref\Summer outfit.dll
+C:\Users\usr\source\repos\toystore\Summer outfit\bin\Debug\net5.0\Summer outfit.pdb
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.dll
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\ref\Summer outfit.dll
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.pdb
+C:\Users\usr\source\repos\toystore\Summer outfit\obj\Debug\net5.0\Summer outfit.genruntimeconfig.cache

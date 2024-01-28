@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\02. Numbers N.exe
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\02. Numbers N.deps.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\02. Numbers N.runtimeconfig.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\02. Numbers N.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\02. Numbers N.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\ref\02. Numbers N.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\bin\Debug\net5.0\02. Numbers N.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\ref\02. Numbers N.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\02. Numbers N\obj\Debug\net5.0\02. Numbers N.genruntimeconfig.cache

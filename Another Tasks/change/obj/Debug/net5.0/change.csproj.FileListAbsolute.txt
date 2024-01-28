@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\change.exe
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\change.deps.json
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\change.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\change.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\change.dll
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\ref\change.dll
+C:\Users\usr\source\repos\toystore\change\bin\Debug\net5.0\change.pdb
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.dll
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\ref\change.dll
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.pdb
+C:\Users\usr\source\repos\toystore\change\obj\Debug\net5.0\change.genruntimeconfig.cache

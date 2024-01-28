@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\05 task.exe
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\05 task.deps.json
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\05 task.runtimeconfig.json
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\05 task.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\05 task.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\ref\05 task.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\bin\Release\net5.0\05 task.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\ref\05 task.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\05 task\obj\Release\net5.0\05 task.genruntimeconfig.cache

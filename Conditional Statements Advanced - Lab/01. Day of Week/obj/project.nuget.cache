@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/tOIX63AIaoLtEyRykBBxo8+DTmjzjmZ0p8EaEdzbiUP7BSZZ2Amp8h0sXy43RmlolG+2ziHcd1PbKoH7qUEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\01. Day of Week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

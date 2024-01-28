@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\exam preparation.exe
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\exam preparation.deps.json
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\exam preparation.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\exam preparation.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\exam preparation.dll
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\ref\exam preparation.dll
+C:\Users\usr\source\repos\toystore\exam preparation\bin\Debug\net5.0\exam preparation.pdb
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.dll
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\ref\exam preparation.dll
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.pdb
+C:\Users\usr\source\repos\toystore\exam preparation\obj\Debug\net5.0\exam preparation.genruntimeconfig.cache

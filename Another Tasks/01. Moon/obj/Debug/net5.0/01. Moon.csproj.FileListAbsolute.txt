@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\01. Moon.exe
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\01. Moon.deps.json
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\01. Moon.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\01. Moon.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\01. Moon.dll
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\ref\01. Moon.dll
+C:\Users\usr\source\repos\toystore\01. Moon\bin\Debug\net5.0\01. Moon.pdb
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.dll
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\ref\01. Moon.dll
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.pdb
+C:\Users\usr\source\repos\toystore\01. Moon\obj\Debug\net5.0\01. Moon.genruntimeconfig.cache

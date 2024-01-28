@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.exe
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.deps.json
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.dll
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\ref\05. Christmas Gifts.dll
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.pdb
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.dll
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\ref\05. Christmas Gifts.dll
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.pdb
+C:\Users\usr\source\repos\toystore\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\trecking mania.exe
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\trecking mania.deps.json
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\trecking mania.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\trecking mania.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\trecking mania.dll
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\ref\trecking mania.dll
+C:\Users\usr\source\repos\toystore\trecking mania\bin\Debug\net5.0\trecking mania.pdb
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.dll
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\ref\trecking mania.dll
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.pdb
+C:\Users\usr\source\repos\toystore\trecking mania\obj\Debug\net5.0\trecking mania.genruntimeconfig.cache

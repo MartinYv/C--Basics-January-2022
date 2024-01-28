@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\shopping.exe
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\shopping.deps.json
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\shopping.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\shopping.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\shopping.dll
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\ref\shopping.dll
+C:\Users\usr\source\repos\toystore\shopping\bin\Debug\net5.0\shopping.pdb
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.dll
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\ref\shopping.dll
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.pdb
+C:\Users\usr\source\repos\toystore\shopping\obj\Debug\net5.0\shopping.genruntimeconfig.cache

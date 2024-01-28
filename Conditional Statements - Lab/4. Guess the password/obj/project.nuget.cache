@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkDeS+EAz9uURLvoJnY/r4+WdPvGW7gDt3W1FbyeBc3fDtNZL1iVfz6m7btCjEUURYn9kBaav5Z6cwXaFqdgBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Conditional Statements - Lab\\4. Guess the password\\4. Guess the password.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

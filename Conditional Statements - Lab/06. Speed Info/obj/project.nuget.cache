@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aq1LT3+cCnfnnrh7SByb1KeFXIPuoakSBJ2k/TJ8rZbCQE+6PtWbaLyODe1+VtdlFRwV9KYdChN2iOcv04IQ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Conditional Statements - Lab\\06. Speed Info\\06. Speed Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

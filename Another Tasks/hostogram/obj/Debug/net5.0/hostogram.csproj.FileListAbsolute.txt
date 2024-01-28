@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\hostogram.exe
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\hostogram.deps.json
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\hostogram.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\hostogram.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\hostogram.dll
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\ref\hostogram.dll
+C:\Users\usr\source\repos\toystore\hostogram\bin\Debug\net5.0\hostogram.pdb
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.dll
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\ref\hostogram.dll
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.pdb
+C:\Users\usr\source\repos\toystore\hostogram\obj\Debug\net5.0\hostogram.genruntimeconfig.cache

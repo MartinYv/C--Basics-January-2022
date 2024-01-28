@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\eggs.exe
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\eggs.deps.json
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\eggs.runtimeconfig.json
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\eggs.runtimeconfig.dev.json
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\eggs.dll
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\ref\eggs.dll
+C:\Users\usr\source\repos\exam preparation 2\eggs\bin\Debug\net5.0\eggs.pdb
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.AssemblyInfo.cs
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.dll
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\ref\eggs.dll
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.pdb
+C:\Users\usr\source\repos\exam preparation 2\eggs\obj\Debug\net5.0\eggs.genruntimeconfig.cache

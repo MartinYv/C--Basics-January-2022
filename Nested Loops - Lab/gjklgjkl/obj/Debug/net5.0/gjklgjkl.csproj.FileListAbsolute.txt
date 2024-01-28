@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\gjklgjkl.exe
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\gjklgjkl.deps.json
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\gjklgjkl.runtimeconfig.json
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\gjklgjkl.runtimeconfig.dev.json
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\gjklgjkl.dll
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\ref\gjklgjkl.dll
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\bin\Debug\net5.0\gjklgjkl.pdb
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.AssemblyInfo.cs
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.dll
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\ref\gjklgjkl.dll
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.pdb
+C:\Users\usr\source\repos\lab 16.02.22\gjklgjkl\obj\Debug\net5.0\gjklgjkl.genruntimeconfig.cache

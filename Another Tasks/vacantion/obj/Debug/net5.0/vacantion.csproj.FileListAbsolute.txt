@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\vacantion.exe
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\vacantion.deps.json
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\vacantion.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\vacantion.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\vacantion.dll
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\ref\vacantion.dll
+C:\Users\usr\source\repos\toystore\vacantion\bin\Debug\net5.0\vacantion.pdb
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.dll
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\ref\vacantion.dll
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.pdb
+C:\Users\usr\source\repos\toystore\vacantion\obj\Debug\net5.0\vacantion.genruntimeconfig.cache

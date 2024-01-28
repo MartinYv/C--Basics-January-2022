@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\1. Exelent Mark.exe
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\1. Exelent Mark.deps.json
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\1. Exelent Mark.runtimeconfig.json
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\1. Exelent Mark.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\1. Exelent Mark.dll
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\ref\1. Exelent Mark.dll
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\bin\Debug\net5.0\1. Exelent Mark.pdb
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.dll
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\ref\1. Exelent Mark.dll
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.pdb
+C:\Users\usr\source\repos\1. Exelent Mark\1. Exelent Mark\obj\Debug\net5.0\1. Exelent Mark.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\04. Gifts from Santa.exe
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\04. Gifts from Santa.deps.json
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\04. Gifts from Santa.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\04. Gifts from Santa.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\04. Gifts from Santa.dll
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\ref\04. Gifts from Santa.dll
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\bin\Debug\net5.0\04. Gifts from Santa.pdb
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.dll
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\ref\04. Gifts from Santa.dll
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.pdb
+C:\Users\usr\source\repos\toystore\04. Gifts from Santa\obj\Debug\net5.0\04. Gifts from Santa.genruntimeconfig.cache

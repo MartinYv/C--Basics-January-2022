@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\special numbers.exe
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\special numbers.deps.json
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\special numbers.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\special numbers.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\special numbers.dll
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\ref\special numbers.dll
+C:\Users\usr\source\repos\toystore\special numbers\bin\Debug\net5.0\special numbers.pdb
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.dll
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\ref\special numbers.dll
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.pdb
+C:\Users\usr\source\repos\toystore\special numbers\obj\Debug\net5.0\special numbers.genruntimeconfig.cache

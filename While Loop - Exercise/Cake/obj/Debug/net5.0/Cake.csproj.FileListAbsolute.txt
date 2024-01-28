@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\Cake.exe
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\Cake.deps.json
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\Cake.runtimeconfig.json
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\Cake.runtimeconfig.dev.json
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\Cake.dll
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\ref\Cake.dll
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\bin\Debug\net5.0\Cake.pdb
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.AssemblyInfo.cs
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.dll
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\ref\Cake.dll
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.pdb
+C:\Users\usr\source\repos\exersices 08.08.22\Cake\obj\Debug\net5.0\Cake.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\06. World Swimming Record.exe
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\06. World Swimming Record.deps.json
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\06. World Swimming Record.runtimeconfig.json
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\06. World Swimming Record.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\06. World Swimming Record.dll
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\ref\06. World Swimming Record.dll
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\bin\Release\net5.0\06. World Swimming Record.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.dll
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\ref\06. World Swimming Record.dll
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.genruntimeconfig.cache
+C:\Users\usr\source\repos\01. Sum Seconds\06. World Swimming Record\obj\Release\net5.0\06. World Swimming Record.csproj.AssemblyReference.cache

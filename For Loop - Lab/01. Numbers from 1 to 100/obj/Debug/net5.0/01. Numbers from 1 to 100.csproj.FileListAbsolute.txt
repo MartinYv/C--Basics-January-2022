@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.exe
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.deps.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\ref\01. Numbers from 1 to 100.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\bin\Debug\net5.0\01. Numbers from 1 to 100.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\ref\01. Numbers from 1 to 100.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\01. Numbers from 1 to 100\obj\Debug\net5.0\01. Numbers from 1 to 100.genruntimeconfig.cache

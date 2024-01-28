@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.exe
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.deps.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\ref\05. Character Sequence.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\ref\05. Character Sequence.dll
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.pdb
+C:\Users\usr\source\repos\01. Numbers from 1 to 100\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.genruntimeconfig.cache

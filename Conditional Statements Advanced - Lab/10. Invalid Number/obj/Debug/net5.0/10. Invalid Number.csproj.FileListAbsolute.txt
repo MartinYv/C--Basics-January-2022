@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.exe
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.deps.json
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.json
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.dll
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\ref\10. Invalid Number.dll
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\bin\Debug\net5.0\10. Invalid Number.pdb
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.dll
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\ref\10. Invalid Number.dll
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.pdb
+C:\Users\usr\source\repos\01. Day of Week\10. Invalid Number\obj\Debug\net5.0\10. Invalid Number.genruntimeconfig.cache

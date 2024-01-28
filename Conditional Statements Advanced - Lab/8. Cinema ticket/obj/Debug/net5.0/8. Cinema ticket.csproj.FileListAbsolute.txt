@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\8. Cinema ticket.exe
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\8. Cinema ticket.deps.json
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\8. Cinema ticket.runtimeconfig.json
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\8. Cinema ticket.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\8. Cinema ticket.dll
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\ref\8. Cinema ticket.dll
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\bin\Debug\net5.0\8. Cinema ticket.pdb
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.dll
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\ref\8. Cinema ticket.dll
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.pdb
+C:\Users\usr\source\repos\01. Day of Week\8. Cinema ticket\obj\Debug\net5.0\8. Cinema ticket.genruntimeconfig.cache

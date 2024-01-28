@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\Cinema tickets.exe
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\Cinema tickets.deps.json
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\Cinema tickets.runtimeconfig.json
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\Cinema tickets.runtimeconfig.dev.json
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\Cinema tickets.dll
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\ref\Cinema tickets.dll
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\bin\Debug\net5.0\Cinema tickets.pdb
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.AssemblyInfo.cs
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.dll
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\ref\Cinema tickets.dll
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.pdb
+C:\Users\usr\source\repos\exam preparation 2\Cinema tickets\obj\Debug\net5.0\Cinema tickets.genruntimeconfig.cache

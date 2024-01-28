@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.exe
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.deps.json
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.runtimeconfig.json
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\ref\05. Godzilla vs. Kong.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\ref\05. Godzilla vs. Kong.dll
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.genruntimeconfig.cache

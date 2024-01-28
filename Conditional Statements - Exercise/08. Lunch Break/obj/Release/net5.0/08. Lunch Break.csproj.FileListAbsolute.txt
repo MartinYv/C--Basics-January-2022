@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\08. Lunch Break.exe
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\08. Lunch Break.deps.json
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\08. Lunch Break.runtimeconfig.json
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\08. Lunch Break.runtimeconfig.dev.json
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\08. Lunch Break.dll
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\ref\08. Lunch Break.dll
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\bin\Release\net5.0\08. Lunch Break.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.AssemblyInfo.cs
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.dll
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\ref\08. Lunch Break.dll
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.pdb
+C:\Users\usr\source\repos\01. Sum Seconds\08. Lunch Break\obj\Release\net5.0\08. Lunch Break.genruntimeconfig.cache

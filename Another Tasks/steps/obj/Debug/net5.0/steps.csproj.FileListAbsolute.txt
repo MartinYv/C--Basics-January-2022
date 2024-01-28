@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\steps.exe
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\steps.deps.json
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\steps.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\steps.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\steps.dll
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\ref\steps.dll
+C:\Users\usr\source\repos\toystore\steps\bin\Debug\net5.0\steps.pdb
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.dll
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\ref\steps.dll
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.pdb
+C:\Users\usr\source\repos\toystore\steps\obj\Debug\net5.0\steps.genruntimeconfig.cache

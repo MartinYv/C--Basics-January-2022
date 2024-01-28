@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\Oscars.exe
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\Oscars.deps.json
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\Oscars.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\Oscars.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\Oscars.dll
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\ref\Oscars.dll
+C:\Users\usr\source\repos\toystore\Oscars\bin\Debug\net5.0\Oscars.pdb
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.dll
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\ref\Oscars.dll
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.pdb
+C:\Users\usr\source\repos\toystore\Oscars\obj\Debug\net5.0\Oscars.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAByVfjmdoLIB/4UWr1c0KQzOMDbvVkoyjjvREtH+6Px7Nv3wsMPukpn9Zc5i0+DcvYgta0pxBT7btovKciR/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usr\\source\\repos\\Conditional Statements - Lab\\1. Exelent Mark\\1. Exelent Mark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

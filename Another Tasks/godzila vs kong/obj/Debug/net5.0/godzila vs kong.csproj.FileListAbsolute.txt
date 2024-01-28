@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\godzila vs kong.exe
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\godzila vs kong.deps.json
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\godzila vs kong.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\godzila vs kong.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\godzila vs kong.dll
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\ref\godzila vs kong.dll
+C:\Users\usr\source\repos\toystore\godzila vs kong\bin\Debug\net5.0\godzila vs kong.pdb
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.dll
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\ref\godzila vs kong.dll
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.pdb
+C:\Users\usr\source\repos\toystore\godzila vs kong\obj\Debug\net5.0\godzila vs kong.genruntimeconfig.cache

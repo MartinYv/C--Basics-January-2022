@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.AssemblyInfo.cs
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\3. Even or odd.exe
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\3. Even or odd.deps.json
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\3. Even or odd.runtimeconfig.json
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\3. Even or odd.runtimeconfig.dev.json
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\3. Even or odd.dll
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\ref\3. Even or odd.dll
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\bin\Debug\net5.0\3. Even or odd.pdb
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.dll
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\ref\3. Even or odd.dll
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.pdb
+C:\Users\usr\source\repos\1. Exelent Mark\3. Even or odd\obj\Debug\net5.0\3. Even or odd.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\barcode generator.exe
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\barcode generator.deps.json
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\barcode generator.runtimeconfig.json
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\barcode generator.runtimeconfig.dev.json
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\barcode generator.dll
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\ref\barcode generator.dll
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\bin\Debug\net5.0\barcode generator.pdb
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.AssemblyInfo.cs
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.dll
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\ref\barcode generator.dll
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.pdb
+C:\Users\usr\source\repos\exam preparation 2\barcode generator\obj\Debug\net5.0\barcode generator.genruntimeconfig.cache

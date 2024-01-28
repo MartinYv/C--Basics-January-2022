@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\Space Ship.exe
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\Space Ship.deps.json
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\Space Ship.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\Space Ship.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\Space Ship.dll
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\ref\Space Ship.dll
+C:\Users\usr\source\repos\toystore\Space Ship\bin\Debug\net5.0\Space Ship.pdb
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.dll
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\ref\Space Ship.dll
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.pdb
+C:\Users\usr\source\repos\toystore\Space Ship\obj\Debug\net5.0\Space Ship.genruntimeconfig.cache

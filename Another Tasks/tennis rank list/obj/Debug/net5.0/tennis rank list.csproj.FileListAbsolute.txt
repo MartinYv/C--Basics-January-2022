@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\tennis rank list.exe
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\tennis rank list.deps.json
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\tennis rank list.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\tennis rank list.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\tennis rank list.dll
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\ref\tennis rank list.dll
+C:\Users\usr\source\repos\toystore\tennis rank list\bin\Debug\net5.0\tennis rank list.pdb
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.dll
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\ref\tennis rank list.dll
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.pdb
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.genruntimeconfig.cache
+C:\Users\usr\source\repos\toystore\tennis rank list\obj\Debug\net5.0\tennis rank list.csproj.AssemblyReference.cache

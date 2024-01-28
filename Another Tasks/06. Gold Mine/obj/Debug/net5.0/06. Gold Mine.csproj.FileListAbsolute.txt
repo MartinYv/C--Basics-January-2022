@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\06. Gold Mine.exe
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\06. Gold Mine.deps.json
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\06. Gold Mine.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\06. Gold Mine.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\06. Gold Mine.dll
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\ref\06. Gold Mine.dll
+C:\Users\usr\source\repos\toystore\06. Gold Mine\bin\Debug\net5.0\06. Gold Mine.pdb
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.dll
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\ref\06. Gold Mine.dll
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.pdb
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.genruntimeconfig.cache
+C:\Users\usr\source\repos\toystore\06. Gold Mine\obj\Debug\net5.0\06. Gold Mine.csproj.AssemblyReference.cache

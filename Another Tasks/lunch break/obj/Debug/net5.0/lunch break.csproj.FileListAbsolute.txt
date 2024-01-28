@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\lunch break.exe
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\lunch break.deps.json
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\lunch break.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\lunch break.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\lunch break.dll
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\ref\lunch break.dll
+C:\Users\usr\source\repos\toystore\lunch break\bin\Debug\net5.0\lunch break.pdb
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.dll
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\ref\lunch break.dll
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.pdb
+C:\Users\usr\source\repos\toystore\lunch break\obj\Debug\net5.0\lunch break.genruntimeconfig.cache

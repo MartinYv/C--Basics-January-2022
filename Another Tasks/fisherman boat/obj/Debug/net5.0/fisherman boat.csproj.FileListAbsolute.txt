@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\fisherman boat.exe
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\fisherman boat.deps.json
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\fisherman boat.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\fisherman boat.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\fisherman boat.dll
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\ref\fisherman boat.dll
+C:\Users\usr\source\repos\toystore\fisherman boat\bin\Debug\net5.0\fisherman boat.pdb
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.dll
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\ref\fisherman boat.dll
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.pdb
+C:\Users\usr\source\repos\toystore\fisherman boat\obj\Debug\net5.0\fisherman boat.genruntimeconfig.cache

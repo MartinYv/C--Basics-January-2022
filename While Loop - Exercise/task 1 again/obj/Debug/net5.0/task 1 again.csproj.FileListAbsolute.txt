@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\task 1 again.exe
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\task 1 again.deps.json
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\task 1 again.runtimeconfig.json
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\task 1 again.runtimeconfig.dev.json
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\task 1 again.dll
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\ref\task 1 again.dll
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\bin\Debug\net5.0\task 1 again.pdb
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.AssemblyInfo.cs
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.dll
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\ref\task 1 again.dll
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.pdb
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.genruntimeconfig.cache
+C:\Users\usr\source\repos\exersices 08.08.22\task 1 again\obj\Debug\net5.0\task 1 again.csproj.AssemblyReference.cache

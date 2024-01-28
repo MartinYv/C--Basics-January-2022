@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\toystore.exe
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\toystore.deps.json
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\toystore.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\toystore.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\toystore.dll
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\ref\toystore.dll
+C:\Users\usr\source\repos\toystore\toystore\bin\Debug\net5.0\toystore.pdb
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.dll
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\ref\toystore.dll
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.pdb
+C:\Users\usr\source\repos\toystore\toystore\obj\Debug\net5.0\toystore.genruntimeconfig.cache

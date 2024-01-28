@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.exe
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.deps.json
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\bin\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.dll
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\ref\02. Equal Sums Even Odd Position.dll
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.pdb
+C:\Users\usr\source\repos\toystore\02. Equal Sums Even Odd Position\obj\Debug\net5.0\02. Equal Sums Even Odd Position.genruntimeconfig.cache

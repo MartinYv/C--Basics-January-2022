@@ -1,0 +1,16 @@
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\exam preparation 2.exe
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\exam preparation 2.deps.json
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\exam preparation 2.runtimeconfig.json
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\exam preparation 2.runtimeconfig.dev.json
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\exam preparation 2.dll
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\ref\exam preparation 2.dll
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\bin\Debug\net5.0\exam preparation 2.pdb
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.csproj.AssemblyReference.cache
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.AssemblyInfoInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.AssemblyInfo.cs
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.dll
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\ref\exam preparation 2.dll
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.pdb
+C:\Users\usr\source\repos\exam preparation 2\exam preparation 2\obj\Debug\net5.0\exam preparation 2.genruntimeconfig.cache
